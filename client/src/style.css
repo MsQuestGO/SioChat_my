@@ -9,3 +9,16 @@
     width: 100%;
     padding-left: 5px;
 }
+
+.message_li{
+    height: 100%;
+    width: 80%;
+    display:contents;
+}
+
+.message_div{
+    height: 100%;
+    width: 100%;
+    display:grid;
+    margin-bottom: 50px;
+}

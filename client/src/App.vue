@@ -72,7 +72,7 @@ function formatDate(date) {
         </div>
     </div>
 
-    <div>
+    <div class="message_div">
 
         <ul class="message_li">
            
